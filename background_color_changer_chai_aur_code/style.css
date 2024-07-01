@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+}
+
+.button{
+    padding: 50px;
+    border: 1px solid #000;
+    margin: 0px 10px;
+}
+
+.buttons{
+    justify-content: center;
+    display: flex;
+}
+
+#grey{
+    background-color: grey;
+}
+
+#white{
+    background-color: white;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+#blue{
+    background-color: blue;
+}
+
+
+
+
