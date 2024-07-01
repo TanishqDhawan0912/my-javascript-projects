@@ -8,6 +8,9 @@
 body {
   background: #002339;
   color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .container {
