@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 500px;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: #292828;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.banner{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.clock{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: yellow;
+    color: #000;
+    font-weight: 600;
+    height: 40px;
+    width: 200px;
+    border-radius: 10px;
+}
