@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.heading{
+    margin: 20px 40px;
+}
+
+
+.height{
+    margin: 20px;
+}
+
+.weight{
+    margin: 20px;
+}
+
+.btn{
+    margin: 10px 120px;
+    border: 1px solid black;
+    padding: 5px 10px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.weight_guide{
+    margin: 20px;
+
+}
+
+.weight_guide p{
+    font-weight: 600;
+}
