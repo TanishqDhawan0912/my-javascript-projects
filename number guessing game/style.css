@@ -1,0 +1,85 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #333232;
+    color: white;
+    text-align: center
+}
+
+.heading{
+    margin: 0;
+    background-color: #000;
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.instructions{
+    font-size: 20px;
+    letter-spacing: 3px;
+    margin: 10px;
+}
+
+.guess{
+    margin: 20px;
+    font-size: 60px;
+    font-weight: 600;
+    font-family: 'Open Sans';
+}
+
+#guessnum{
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+    text-align: center;
+    margin: 10px;
+}
+
+#submit{
+    width: 150px;
+    padding: 8px;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    background-color: #396ec3;
+    border: 1px solid #000;
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 20PX;
+}
+
+.guesslines{
+    margin: 5px;
+    font-size: 15px;
+}
+
+.games{
+    margin: 20px;
+    font-size: 20px;
+}
+
+.btn{
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+    background-color: #000;
+    border: 1px solid #000;
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+#new{
+    background-color: green
+}
+
+#reset{
+    background-color: #7d1313
+}
